@@ -1,0 +1,12 @@
+text,true_label,top_3_predicted_tags
+Can you tell me more about your data retention policy?,General Inquiry,"['Feature Request', 'General Inquiry', 'Account']"
+Would love a dark theme option for the web dashboard.,Feature Request,"['Feature Request', 'Account', 'Billing']"
+I'm getting a 500 error whenever I try to log in from the mobile app.,Technical Issue,"['Feature Request', 'Technical Issue', 'Account']"
+Is there a mobile app available for iOS as well as Android?,General Inquiry,"['Feature Request', 'General Inquiry', 'Account']"
+I want to delete my account and all associated data permanently.,Account,"['Account', 'Billing', 'Technical Issue']"
+Why is my credit card being billed even though I cancelled my plan?,Billing,"['Feature Request', 'Billing', 'Account']"
+Any plans to support bulk editing of tickets in the admin panel?,Feature Request,"['Feature Request', 'Account', 'Technical Issue']"
+The app crashes every time I try to upload a file larger than 10MB.,Technical Issue,"['Technical Issue', 'Account', 'Billing']"
+Where can I find the API documentation for your product?,General Inquiry,"['Feature Request', 'Account', 'General Inquiry']"
+The payment failed but the amount was still deducted from my bank account.,Billing,"['Account', 'Technical Issue', 'Billing']"
+How can I transfer ownership of my account to a colleague?,Account,"['Feature Request', 'Account', 'Technical Issue']"
